@@ -6,9 +6,9 @@ IW1100      IW1100   IW1100     0      134       666    190    N            N   
 IW1200      IW1200   IW1200     0      152       666    190    @iw1000      @iw1000      N        //++ Частокол // Targos
 IW2000      IW2000   IW2000     2      155       510    270    @iw2000      @iw2000      N        //++ Шенгарнский брод // Shaengarne Ford // Gue du Shaengarne
 IW2001      IW2001   IW2001     0      134       510    270    N            N            N        //++
-IW2100      IW2100   IW2100     0      400       280    209    N            N            N        //++
-IW2101      IW2101   IW2101     0      400       280    209    N            N            N        //++ 
-IW2102      IW2102   IW2102     0      156       519    261    @iw2102      @iw2102      N        //++ Шенгарнский  // Shaengarne Bridge // Pont du Shaengarne
+IW2100      IW2100   IW2100     0      400       390    290    N            N            N        //++
+IW2101      IW2101   IW2101     0      400       390    290    N            N            N        //++ 
+IW2102      IW2102   IW2102     0      156       390    290    @iw2102      @iw2102      N        //++ Шенгарнский  // Shaengarne Bridge // Pont du Shaengarne
 IW3000      IW3000   IW3000     0      157       619    287    @iw3000      @iw3000      N        //++ Крепость Орды // Horde Fortress // Forteresse de la Horde
 IW3100      IW3100   IW3100     0      134       672    290    N            N            N        //++
                                                                                                   
